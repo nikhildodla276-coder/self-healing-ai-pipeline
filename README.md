@@ -7,3 +7,8 @@ Infrastructure Scaling: Successfully integrated and synchronized a 16GB Dual-Cha
 System Optimization: Executed a kernel-level memory purge and re-calibrated virtual memory paging files for high-throughput AI pipeline orchestration.
 
 Terminal Autonomy: Transitioned to a command-line-first workflow for repository management and system diagnostics.
+Engineered the Shadow Sentinel: Developed a Python-based automation daemon utilizing Event-Driven Architecture (Observer Pattern) for real-time file system monitoring.
+
+Resilience Optimization: Successfully diagnosed and resolved a WinError 32 Race Condition by implementing a synchronization buffer to handle file-locking latency.
+
+System Governance: Deployed the solution within an isolated Virtual Environment to ensure dependency integrity and system portability.
